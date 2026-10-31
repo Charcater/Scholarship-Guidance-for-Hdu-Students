@@ -1,0 +1,262 @@
+[
+  {
+    "id": "S002",
+    "url": "https://com.hdu.edu.cn/2026/1012/c12370a301377/page.htm",
+    "host": "com.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S003",
+    "url": "http://com.hdu.edu.cn/2017/1010/c12369a70643/page.htm",
+    "host": "com.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S004",
+    "url": "http://com.hdu.edu.cn/2016/1011/c12369a70626/page.htm",
+    "host": "com.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S005",
+    "url": "https://student.hdu.edu.cn/2023/0915/c13775a250784/page.htm",
+    "host": "student.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S006",
+    "url": "https://student.hdu.edu.cn/2023/1017/c13775a251647/page.htm",
+    "host": "student.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S007",
+    "url": "https://student.hdu.edu.cn/2021/0318/c13775a133051/page.htm",
+    "host": "student.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S008",
+    "url": "http://eco.hdu.edu.cn/_upload/article/files/d3/c5/c9cef9ce46e29004e51fa24778a0/87b81eba-9e3d-4d6a-98ad-325d6468adef.pdf",
+    "host": "eco.hdu.edu.cn",
+    "official_domain": true,
+    "status": 206,
+    "error": null,
+    "bytes": 2049,
+    "content_type": "application/pdf"
+  },
+  {
+    "id": "S009",
+    "url": "http://eco.hdu.edu.cn/_upload/article/files/64/3e/b5b158e4425486ad5be22675027c/5f2eb442-c675-4717-a189-a631f3837ec3.pdf",
+    "host": "eco.hdu.edu.cn",
+    "official_domain": true,
+    "status": 206,
+    "error": null,
+    "bytes": 2049,
+    "content_type": "application/pdf"
+  },
+  {
+    "id": "S010",
+    "url": "http://eco.hdu.edu.cn/_upload/article/files/02/eb/0e34e36b4d3884318362bd491067/dc967842-0d00-4f1d-b198-f8bd69a7a86f.pdf",
+    "host": "eco.hdu.edu.cn",
+    "official_domain": true,
+    "status": 206,
+    "error": null,
+    "bytes": 2049,
+    "content_type": "application/pdf"
+  },
+  {
+    "id": "S011",
+    "url": "https://eco.hdu.edu.cn/2025/0916/c12565a285723/page.htm",
+    "host": "eco.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S012",
+    "url": "https://xxgk.hdu.edu.cn/2011/1208/c8797a192123/page.htm",
+    "host": "xxgk.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S013",
+    "url": "https://xxgk.hdu.edu.cn/2011/1208/c8797a192129/page.htm",
+    "host": "xxgk.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S014",
+    "url": "http://eco.hdu.edu.cn/2026/0929/c12565a301004/page.htm",
+    "host": "eco.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S015",
+    "url": "http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1779/202410/t20241029_1159726.html",
+    "host": "www.moe.gov.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S016",
+    "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3099/site/attach/0/f35f7516f528401ea63d58cc9a19b36d.docx",
+    "host": "zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn",
+    "official_domain": true,
+    "status": 206,
+    "error": null,
+    "bytes": 2049,
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "id": "S017",
+    "url": "https://jyt.zj.gov.cn/art/2023/4/12/art_1607468_58939813.html",
+    "host": "jyt.zj.gov.cn",
+    "official_domain": true,
+    "status": 206,
+    "error": null,
+    "bytes": 2049,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "id": "S018",
+    "url": "https://student.hdu.edu.cn/13775/list.htm",
+    "host": "student.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S019",
+    "url": "https://xxgk.hdu.edu.cn/8841/list.htm",
+    "host": "xxgk.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S020",
+    "url": "https://student.hdu.edu.cn/",
+    "host": "student.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S021",
+    "url": "https://ee.hdu.edu.cn/",
+    "host": "ee.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S022",
+    "url": "https://ee.hdu.edu.cn/13576/list.htm",
+    "host": "ee.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S023",
+    "url": "https://ee.hdu.edu.cn/13579/list.htm",
+    "host": "ee.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S024",
+    "url": "http://eco.hdu.edu.cn/2026/1009/c12565a301279/page.htm",
+    "host": "eco.hdu.edu.cn",
+    "official_domain": true,
+    "status": 200,
+    "error": null,
+    "bytes": 4096,
+    "content_type": "text/html"
+  },
+  {
+    "id": "S025",
+    "url": "http://eco.hdu.edu.cn/_upload/article/files/fe/76/a00df68e4620bfcebb6ed25c4566/0d730ea8-3fe5-4830-9f91-c5d42760fd87.pdf",
+    "host": "eco.hdu.edu.cn",
+    "official_domain": true,
+    "status": 206,
+    "error": null,
+    "bytes": 2049,
+    "content_type": "application/pdf"
+  },
+  {
+    "id": "S026",
+    "url": "http://eco.hdu.edu.cn/_upload/article/files/fe/76/a00df68e4620bfcebb6ed25c4566/a02d081c-a530-4c97-893b-a2d52570335e.docx",
+    "host": "eco.hdu.edu.cn",
+    "official_domain": true,
+    "status": 206,
+    "error": null,
+    "bytes": 2049,
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "id": "S027",
+    "url": "https://student.hdu.edu.cn/_upload/article/files/ba/fc/c9c101b14d1da67bc67962f6a586/79c52db6-acd8-47c0-bd2a-acc248905ace.pdf",
+    "host": "student.hdu.edu.cn",
+    "official_domain": true,
+    "status": 206,
+    "error": null,
+    "bytes": 2049,
+    "content_type": "application/pdf"
+  }
+]
