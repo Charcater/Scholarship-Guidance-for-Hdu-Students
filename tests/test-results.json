@@ -1,0 +1,56 @@
+{
+  "checks": [
+    {
+      "name": "首页渲染",
+      "ok": true,
+      "detail": "首页包含“先看分类”"
+    },
+    {
+      "name": "分类筛选",
+      "ok": true,
+      "detail": "国家级卡片数=2（预期2）"
+    },
+    {
+      "name": "搜索",
+      "ok": true,
+      "detail": "搜索“国家”结果数=6"
+    },
+    {
+      "name": "项目详情",
+      "ok": true,
+      "detail": "标题=国家奖学金"
+    },
+    {
+      "name": "来源链接文字/新标签",
+      "ok": true,
+      "detail": "来源链接数=6"
+    },
+    {
+      "name": "表单触发匹配",
+      "ok": true,
+      "detail": "结果页长度=3159"
+    },
+    {
+      "name": "结果含官方入口",
+      "ok": true,
+      "detail": "结果含项目/来源文字"
+    },
+    {
+      "name": "未知条件处理",
+      "ok": true,
+      "detail": "只填年级时 notMatch 卡片数=0"
+    },
+    {
+      "name": "手机布局",
+      "ok": true,
+      "detail": "viewport=390, scrollWidth=390"
+    },
+    {
+      "name": "官方域名检查",
+      "ok": true,
+      "detail": "来源域名=eco.hdu.edu.cn, www.moe.gov.cn, zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn"
+    }
+  ],
+  "failed": 0,
+  "passed": 10
+}
